@@ -260,6 +260,7 @@
   grid-template-columns: 1fr 1fr 1fr;
   justify-items: center;
   padding-top: 180px;
+  padding-bottom: 87px;
 }
 
 .footer__img {
@@ -300,3 +301,4 @@
   padding-right: 27px;
 }
 
+/* заранее извиняюсь что криво) */
