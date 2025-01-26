@@ -1,6 +1,6 @@
-/* html {
+html {
   scroll-behavior: smooth;
-} */
+}
 
 .header {
   display: grid;
@@ -19,17 +19,21 @@
   padding-bottom: 8px;
 }
 
-.header__links_list {
+.header__links-list {
   display: flex;
   gap: 33px;
   list-style: circle;
 }
 
+.header__links-list-item_no-bullit {
+  list-style-type: none;
+  text-decoration: none;
+
+}
 .header__logo {
   display: block;
   width: auto;
   height: 114px;
-
 }
 
 .header__logo-image {
@@ -97,7 +101,7 @@
   text-align: right;
 }
 
-.description {
+.cover__description {
   display: flex;
   color: #ffffff;
   justify-content: space-evenly;
@@ -106,17 +110,16 @@
 
 }
 
-.description__text {
+.cover__description-text {
   padding-right: 54px;
   word-spacing: 18px;
   font-size: 22px;
-  /* font-weight: 400px; */
   line-height: 28px;
   font-style: normal;
   text-transform: uppercase;
 }
 
-.button {
+.bet-button {
   width: 256px;
   height: 51px;
   border: 1px solid white;
@@ -140,7 +143,7 @@
   color: #ffffff;
 }
 
-.lots_heading {
+.lots__heading {
   font-size: 49px;
   font-weight: bold;
   padding-top: 170px;
