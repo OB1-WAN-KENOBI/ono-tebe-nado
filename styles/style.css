@@ -150,6 +150,7 @@ html {
 .lots__card-list {
   display: flex;
   justify-content: flex-start;
+  flex-wrap: wrap;
   padding-top: 27px;
   padding-right: 23px;
   padding-left: 25px;
