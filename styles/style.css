@@ -270,7 +270,7 @@ html {
   grid-template-columns: 1fr 1fr 1fr;
   justify-items: center;
   padding-top: 181px;
-  padding-bottom: 81px;
+  margin-bottom: 81px;
 }
 
 .footer_address {
