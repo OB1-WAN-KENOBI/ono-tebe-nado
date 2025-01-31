@@ -23,10 +23,18 @@ html {
   padding-right: 37px;
 }
 
+.header__links-list-item:hover {
+  transform: scale(1.2);
+}
+
 .header__links-list {
   display: flex;
   gap: 33px;
   list-style: circle;
+}
+
+.header__links-list-item {
+  transition: transform 0.3s ease;
 }
 
 .header__links-list-item_no-bullit {
@@ -58,7 +66,7 @@ html {
   font-size: 18px;
   line-height: 24.3px;
   letter-spacing: 0.18px;
-  font-family: "Raleway", sans-serif;
+  font-family: Raleway, sans-serif;
   font-style: normal;
   list-style-type: none;
   text-underline-offset: 4px;
@@ -179,6 +187,11 @@ html {
   min-height: 596px;
   background-size: cover;
   background-position: center;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
 }
 
 .card_type_film {
@@ -308,4 +321,12 @@ html {
   height: 48px;
 }
 
-/* заранее извиняюсь что криво) */
+.footer__menu-list-item {
+  transition: transform 0.3s ease;
+}
+
+.footer__menu-list-item:hover {
+  transform: scale(1.2);
+}
+
+
