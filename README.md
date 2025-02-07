@@ -1,1 +1,1 @@
-https://github.com/White-br0/ono-tebe-nado-fd
+https://ob1-wan-kenobi.github.io/ono-tebe-nado/
