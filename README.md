@@ -36,7 +36,7 @@
 - Добавление интерактивных элементов с JavaScript
 - Оптимизация изображений
 
-## You Need It — An Auction of Things Nobody Believed In
+# You Need It — An Auction of Things Nobody Believed In
 
 ## Project Description
 This project is a one-page website for the auction "You Need It." It features unusual lots — things that nobody believed in at first, but over time, they became iconic.
