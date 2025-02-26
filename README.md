@@ -1,7 +1,6 @@
-- [RU](#оно-тебе-надо-аукцион-вещей-в-которые-никто-не-верил)
-- [EN](#you-need-it-an-auction-of-things-nobody-believed-in)
+- [RU](#Описание-проекта)
+- [EN](#Project-Description)
 
-#оно-тебе-надо-аукцион-вещей-в-которые-никто-не-верил
 ## Оно тебе надо — аукцион вещей, в которые никто не верил
 
 ## Описание проекта
@@ -36,7 +35,6 @@
 - Добавление интерактивных элементов с JavaScript
 - Оптимизация изображений
 
-#you-need-it-an-auction-of-things-nobody-believed-in
 ## You Need It — An Auction of Things Nobody Believed In
 
 ## Project Description
