@@ -23,6 +23,7 @@
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/OB1-WAN-KENOBI/ono-tebe-nado.git
+   или откройте страницу по ссылке https://ob1-wan-kenobi.github.io/ono-tebe-nado/
    ```
 2. Откройте `index.html` в браузере.
 
