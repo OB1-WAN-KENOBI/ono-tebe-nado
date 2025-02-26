@@ -22,7 +22,7 @@
 ## Запуск проекта
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/OB1-WAN-KENOBI/ono-tebe-nado.git
    ```
 2. Откройте `index.html` в браузере.
 
